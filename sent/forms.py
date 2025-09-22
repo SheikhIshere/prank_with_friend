@@ -13,5 +13,3 @@ class SentForm(forms.ModelForm):
 
 
 
-
-# www.shaoyn111@gmail.com
